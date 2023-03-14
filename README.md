@@ -1,4 +1,4 @@
-# Продолжение знакомства с jupyter notebook
+# Знакомство с jupyter notebook
 
 Эффективная работа в jupyter notebook
 * Модуль Random
